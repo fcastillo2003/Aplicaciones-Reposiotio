@@ -9,9 +9,11 @@
 * Una 
 * Lista
 * Desordenada
-[google](https://www.google.com) 
 
+[google](https://www.google.com)
+ 
 [enlace](markdown2.md)
+
 ![imagen](goku.jpeg)
 
 |consola|juegos|
